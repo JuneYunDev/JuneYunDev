@@ -134,8 +134,3 @@ and JavaScript.
 [Live Demo](https://sorting.juneyun.tech)  
 [GitHub](https://github.com/JuneYunDev/SortingAlgorithmVisualizer)
 
-## 📊 GitHub Stats
-
-![June's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuneYunDev&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuneYunDev&layout=compact&theme=github_dark)
