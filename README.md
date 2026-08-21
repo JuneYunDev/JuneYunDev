@@ -1,6 +1,6 @@
 # Hello, I'm June 👋
 
-I'm a Junior Full Stack Developer based in Canada.
+I'm a Junior Full Stack Developer based in Calgary, Alberta, Canada.
 
 I enjoy building practical web applications with JavaScript, React,
 Node.js, and relational databases.
